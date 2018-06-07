@@ -4,7 +4,8 @@
   "description": "MySQL burger logger",
   "main": "server.js",
   "scripts": {
-    "test": "testMe"
+    "test": "testMe",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
